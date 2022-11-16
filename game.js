@@ -1,1 +1,1 @@
-//alert("game.js has successfully been linked to index.html!");
+//alert("you have successfully linked game.js to index.html!");
