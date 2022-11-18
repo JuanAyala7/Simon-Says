@@ -10,13 +10,3 @@ function nextSequence(){
   gamePattern.push(randomChosenColour);
 }
 
-
-
-
-
-
-//alert("you have successfully linked game.js to index.html!");
-
-//Confirmation of linking jQuery to website:
-//$("h1");
-//S.fn.init [h1#level-title, prevObject: S.fn.init(1)]
