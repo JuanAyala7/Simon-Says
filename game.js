@@ -41,8 +41,7 @@ function checkAnswer(currentLevel) {
     setTimeout(function() {
       $("body").removeClass("game-over");
     }, 200);
-
-    $("#level-title").text("Game Over! Press any key to try again");
+    
     startOver();
   }
 }
